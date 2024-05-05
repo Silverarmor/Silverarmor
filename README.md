@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently studying a Bachelor of Engineering (Honours) in Civil Engineering.
+
+I have taken a backseat/admin role in the [@spotDL](https://github.com/spotDL/spotify-downloader/) project, still providing user support but not actively developing.
+
+No current projects, but a couple of ongoing items can be found in my repositories!
+
+Contact me on Discord `Silverarmor` 
+
 <!--
 **Silverarmor/Silverarmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
