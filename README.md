@@ -4,7 +4,7 @@ I'm currently studying a Bachelor of Engineering (Honours) in Civil Engineering.
 
 I have taken a backseat/admin role in the [@spotDL](https://github.com/spotDL/spotify-downloader/) project, still providing user support but not actively developing.
 
-No current projects, but a couple of ongoing items can be found in my repositories!
+My current personal project is my [flat dashboard](https://github.com/Silverarmor/j4dash), displaying on a screen in the living room of my flat!
 
 Contact me on Discord `Silverarmor` 
 
